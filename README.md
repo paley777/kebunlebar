@@ -1,35 +1,35 @@
 ![Logo](https://i.postimg.cc/0Nx30hNv/image.png)
 
 # Sistem Informasi Profil Desa Kebun Lebar
-Learning Program Bank Bengkulu (LPBB) adalah sistem e-learning yang diperuntukkan bagi pegawai Bank Bengkulu. E-Learning ini dikembangkan oleh Valleryan Virgil Zuliuskandar. Sistem ini memiliki beragam fitur mulai dari hulu hingga hilir pembelajaran (belajar-ujian-sertifikasi).
+The Kebun Lebar Village Profile Information System is a website-based system aimed at providing information and profiles for the Kebun Lebar village, Pematang Tiga District, Central Bengkulu Regency, Indonesia.
 
 
 
-## Integrasi
-Sistem ini selain menggunakan Laravel 10. Juga mengintegrasikan Framework Bootstrap sebagai front-end. Sistem ini menggunakan database SQL dan dalam pengembangannya menggunakan software MySQL Workbench.
+## Integration
+Apart from using Laravel 10, this system also integrates the Bootstrap Framework as a front-end. This system uses a SQL database and in its development uses MySQL Workbench software.
 
 
-## Fitur Utama Pengguna
+## User Key Features
 
-- Manajemen Berita
-- Manajemen Pengumuman
-- Profil Desa
-
-
+- News Management
+- Announcement Management
+- Village Profile
 
 
 
-## Fitur Sistem
+
+
+## System Features
 
 - Laravel 10
 - Using Eloquent from Laravel
-- Templating for header and footer
-- Full CRUD Integrating
+- Templates for headers and footers
+- Full CRUD integration
 - Authentication from Laravel
 - Upload and Update Images
   
 
-## Optimalisasi
+## Optimization
 
 N+1 Problems
 
@@ -86,6 +86,6 @@ Start the server
 ![App Screenshot](https://i.postimg.cc/VspzWLPc/image.png)
 
 
-## Saran
+## Suggestion
 
-Untuk saran dan masukan sistem ini harap berkenan email ke valleryan1212@gmail.com
+For suggestions and input on this system, please email valleryan1212@gmail.com
